@@ -1,1 +1,1 @@
-print("abdcd")
+print("바꼈음")
