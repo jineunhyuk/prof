@@ -1,1 +1,1 @@
-print("바꿈꿈123")
+print("abdcd")
